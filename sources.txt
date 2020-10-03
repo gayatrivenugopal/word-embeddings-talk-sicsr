@@ -1,0 +1,2 @@
+https://towardsdatascience.com/word-embedding-in-nlp-one-hot-encoding-and-skip-gram-neural-network-81b424da58f2
+https://machinelearningmastery.com/how-to-one-hot-encode-sequence-data-in-python/
