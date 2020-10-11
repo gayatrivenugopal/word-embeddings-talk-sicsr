@@ -2,4 +2,5 @@ ttps://towardsdatascience.com/word-embedding-in-nlp-one-hot-encoding-and-skip-gr
 https://machinelearningmastery.com/how-to-one-hot-encode-sequence-data-in-python/
 http://jalammar.github.io/illustrated-word2vec/
 Mikolov, T., Chen, K., Corrado, G., & Dean, J. (2013). Efficient estimation of word representations in vector space. arXiv preprint arXiv:1301.3781.
-
+https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469
+https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/#:~:text=Word2vec%20is%20not%20a%20single,act%20as%20word%20vector%20representations.
