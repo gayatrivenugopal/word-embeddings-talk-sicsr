@@ -4,3 +4,6 @@ http://jalammar.github.io/illustrated-word2vec/
 Mikolov, T., Chen, K., Corrado, G., & Dean, J. (2013). Efficient estimation of word representations in vector space. arXiv preprint arXiv:1301.3781.
 https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469
 https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/#:~:text=Word2vec%20is%20not%20a%20single,act%20as%20word%20vector%20representations.
+https://towardsdatascience.com/an-implementation-guide-to-word2vec-using-numpy-and-google-sheets-13445eebd281
+https://towardsdatascience.com/nlp-101-negative-sampling-and-glove-936c88f3bc68
+https://towardsdatascience.com/word-embeddings-in-2020-review-with-code-examples-11eb39a1ee6d
