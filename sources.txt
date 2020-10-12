@@ -7,3 +7,4 @@ https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/#:~
 https://towardsdatascience.com/an-implementation-guide-to-word2vec-using-numpy-and-google-sheets-13445eebd281
 https://towardsdatascience.com/nlp-101-negative-sampling-and-glove-936c88f3bc68
 https://towardsdatascience.com/word-embeddings-in-2020-review-with-code-examples-11eb39a1ee6d
+https://kavita-ganesan.com/gensim-word2vec-tutorial-starter-code/#.X4QYPmP7TeM
