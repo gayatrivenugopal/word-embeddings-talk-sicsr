@@ -1,4 +1,4 @@
-ttps://towardsdatascience.com/word-embedding-in-nlp-one-hot-encoding-and-skip-gram-neural-network-81b424da58f2
+https://towardsdatascience.com/word-embedding-in-nlp-one-hot-encoding-and-skip-gram-neural-network-81b424da58f2
 https://machinelearningmastery.com/how-to-one-hot-encode-sequence-data-in-python/
 http://jalammar.github.io/illustrated-word2vec/
 Mikolov, T., Chen, K., Corrado, G., & Dean, J. (2013). Efficient estimation of word representations in vector space. arXiv preprint arXiv:1301.3781.
