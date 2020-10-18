@@ -22,5 +22,4 @@ Pennington, J., Socher, R., & Manning, C. D. (2014, October). Glove: Global vect
 17. Bojanowski, P., Grave, E., Joulin, A., & Mikolov, T. (2017). Enriching word vectors with subword information. Transactions of the Association for Computational Linguistics, 5, 135-146.
 18. Peters, M. E., Neumann, M., Iyyer, M., Gardner, M., Clark, C., Lee, K., & Zettlemoyer, L. (2018). Deep contextualized word representations. arXiv preprint arXiv:1802.05365.
 19. Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2018). Bert: Pre-training of deep bidirectional transformers for language understanding. arXiv preprint arXiv:1810.04805.
-
-Reference for Cross Lingual Embeddings: https://ruder.io/cross-lingual-embeddings/
+20. Cross Lingual Embeddings: https://ruder.io/cross-lingual-embeddings/
