@@ -13,10 +13,10 @@ sentences = [['यह', 'है', 'मेरा', 'पहला', 'वाक्�
 # train model
 model = Word2Vec(sentences, min_count = 1, sg = 1)
 # summarize the loaded model
-print(model)
+#print(model)
 # summarize vocabulary
-words = list(model.wv.vocab)
-print(words)
+#words = list(model.wv.vocab)
+#print(words)
 # access vector for one word
 print(model['वाक्य'])
 # save model
