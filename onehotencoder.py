@@ -6,7 +6,7 @@ https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.LabelEnc
 https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.OneHotEncoder.html
 """
 
-from numpy import argmax
+#from numpy import argmax
 from sklearn.preprocessing import LabelEncoder
 from sklearn.preprocessing import OneHotEncoder
 
@@ -19,10 +19,10 @@ integer_encoded = label_encoder.fit_transform(words)
 print("After label encoding: ", integer_encoded)
 
 # binary encoding
-onehot_encoder = OneHotEncoder(sparse = False)
 integer_encoded = integer_encoded.reshape(len(integer_encoded), 1)
 print("After reshaping: ")
 print(integer_encoded)
+onehot_encoder = OneHotEncoder(sparse = False)
 onehot_encoded = onehot_encoder.fit_transform(integer_encoded)
 print("After one hot encoding: ")
 print(onehot_encoded)
