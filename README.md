@@ -1,6 +1,8 @@
 # word-embeddings-talk-sicsr
 This repo consists of the code snippets used for the talk.
 
+Link to the slide deck: https://prezi.com/view/9emf6rIvvWXcAkxb8ULO/
+
 References:
 1. https://towardsdatascience.com/word-embedding-in-nlp-one-hot-encoding-and-skip-gram-neural-network-81b424da58f2
 2. https://machinelearningmastery.com/how-to-one-hot-encode-sequence-data-in-python/

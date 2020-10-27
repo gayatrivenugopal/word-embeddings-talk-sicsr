@@ -66,7 +66,6 @@ with torch.no_grad(): #deactivates gradient calculation, saves memory; gradient 
     token_embeddings = token_embeddings.permute(1,0,2)
 
     for token in token_embeddings:
-        # token is a [12 x 768] tensor
         sum_vec = torch.sum(token[-4:], dim=0)
         token_vecs_sum.append(sum_vec) # [22 x 768]
 
