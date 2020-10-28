@@ -18,5 +18,6 @@ https://medium.com/@dhartidhami/understanding-bert-word-embeddings-7dc4d2ea54ca
 https://medium.com/@_init_/why-bert-has-3-embedding-layers-and-their-implementation-details-9c261108e28a
 https://colab.research.google.com/drive/1ZQvuAVwA3IjybezQOXnrXMGAnMyZRuPU#scrollTo=UeQNEFbUgMSf
 https://huggingface.co/bert-base-uncased
+https://github.com/AI4Bharat/indicnlp_corpus
 
-Reference for Cross Lingual Embeddings: https://ruder.io/cross-lingual-embeddings/
+Additional Reference for Cross Lingual Embeddings: https://ruder.io/cross-lingual-embeddings/
